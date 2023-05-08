@@ -6,6 +6,26 @@ For this lab, I have chosen the command `grep`. `grep` is short for **“global 
 ---
 # First command
 
-`grep -r "tumor"`
+First Example
+
+Second Example
+
+# Second command
+
+First Example
+
+Second Example
+
+# Third command
+
+First Example
+
+Second Example
+
+# Fourth command
+
+First Example
+
+Second Example
 
 
