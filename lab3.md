@@ -1,7 +1,7 @@
 ## Lab Report 3
 ---
 # Researching Commands
-For this lab, I have chosen the command `grep`. `grep` is short for **“global regular expression print”** and it is a command that searches for a pattern within a file and it displays it out. 
+For this lab, I have chosen the command `grep`. `grep` is short for **“global regular expression print”** and it is a command that searches for a pattern within a file and it displays it out. This command is important because grep allows you to search for a pattern quickly and efficiently in many ways. Instead of just counting a particular word or searching through every file, `grep` will do all of that in a timely manner. 
 
 ---
 # First command
