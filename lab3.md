@@ -56,6 +56,7 @@ First Example
 Second Example
 
 # Fourth command
+- This option tells grep to select non-matching lines. This is useful when you want to search for lines that do not contain a specific pattern.
 
 First Example
 
