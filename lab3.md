@@ -78,7 +78,8 @@ julieli@Julies-MacBook-Pro technical % grep -c "revolutionizing" ./plos/pmed.001
 **First Example**
 - In this example it displays all the text that does not contain the word "of" within the file ./biomed/1471-2490-3-2.txt.
 
-```julieli@Julies-MacBook-Pro technical % grep -v "of" ./biomed/1471-2490-3-2.txt
+```
+julieli@Julies-MacBook-Pro technical % grep -v "of" ./biomed/1471-2490-3-2.txt
 
   
     
