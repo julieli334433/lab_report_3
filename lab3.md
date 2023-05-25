@@ -233,23 +233,23 @@ julieli@Julies-MacBook-Pro technical % grep -v "JSTOR" ./plos/journal.pbio.00200
   ```
 ---
 All commands and descriptions have been asked by ChatGpt.
-> I asked ChatGpt to give me a list of grep commands and the importance of each one. 
-> So it gave me 8 options to choose from
+- I asked ChatGpt to give me a list of grep commands and the importance of each one. 
+- So it gave me 8 options to choose from
 **Example 1**
-> `grep -r "pattern" ./technical`
-> I just changed the word twice to `"revolutionizing"` and `"consortia"` and since I already did `cd technical` I did not have to add that add `./technical` at the end of the command.
-> I also grabbed the meaning they used for the command and changed it up a bit = *"The -r option enables recursive searching through directories, allowing grep to search for a pattern in files within subdirectories."*
+- `grep -r "pattern" ./technical`
+- I just changed the word twice to `"revolutionizing"` and `"consortia"` and since I already did `cd technical` I did not have to add that add `./technical` at the end of the command.
+- I also grabbed the meaning they used for the command and changed it up a bit = *"The -r option enables recursive searching through directories, allowing grep to search for a pattern in files within subdirectories."*
 **Example 2**
->For the 2nd example it gave me the same version but just changes it to `grep -r -l "pattern" ./technical` 
->I changed the word again and didnt add technical at the end.
->I also took their meaning of the command.
+- For the 2nd example it gave me the same version but just changes it to `grep -r -l "pattern" ./technical` 
+- I changed the word again and didnt add technical at the end.
+- I also took their meaning of the command.
 **Example 3**
-> `grep -c "pattern" ./technical/file.txt`
-> For this command I changed the word again and I added in my own file.
-> I took their meaning of this command and changed it up = *"The -c option counts the number of lines that match the given pattern instead of displaying the matching lines."*
+- `grep -c "pattern" ./technical/file.txt`
+- For this command I changed the word again and I added in my own file.
+- I took their meaning of this command and changed it up = *"The -c option counts the number of lines that match the given pattern instead of displaying the matching lines."*
 **Example 4**
-> `grep -v "pattern" ./technical/file.txt`
-> For this command I changed the word and put in a different file for both examples. 
-> I also used their meaning of this command= *"The -v option inverts the match, displaying lines that do not match the given pattern."*
+- `grep -v "pattern" ./technical/file.txt`
+- For this command I changed the word and put in a different file for both examples. 
+- I also used their meaning of this command= *"The -v option inverts the match, displaying lines that do not match the given pattern."*
 
 
