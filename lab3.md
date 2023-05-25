@@ -234,7 +234,7 @@ julieli@Julies-MacBook-Pro technical % grep -v "JSTOR" ./plos/journal.pbio.00200
 ---
 All commands and descriptions have been asked by ChatGpt.
 - I asked ChatGpt to give me a list of grep commands and the importance of each one. 
-- So it gave me 8 options to choose from
+- So it gave me 8 options to choose from (for this lab I chose 4)
 
 **Example 1**
 - `grep -r "pattern" ./technical`
